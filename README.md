@@ -5,8 +5,11 @@ Dependancy - ox_lib
 
 Anticheat is now Released 
 1 Month - https://moon-scriptsstore.tebex.io/package/6085872
+
 3 Months - https://moon-scriptsstore.tebex.io/package/6085895
+
 Life Time - https://moon-scriptsstore.tebex.io/package/6085897
+
 Open Source - https://moon-scriptsstore.tebex.io/package/6085898
 
 # Anti-Stacking Mechanism for Unique Items
