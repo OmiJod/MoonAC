@@ -3,7 +3,11 @@ QB / PS / LJ Inventory
 
 Dependancy - ox_lib
 
-# Pre Sale Is now Please Contact Through - https://discord.gg/YHCreNhgdX
+Anticheat is now Released 
+1 Month - https://moon-scriptsstore.tebex.io/package/6085872
+3 Months - https://moon-scriptsstore.tebex.io/package/6085895
+Life Time - https://moon-scriptsstore.tebex.io/package/6085897
+Open Source - https://moon-scriptsstore.tebex.io/package/6085898
 
 # Anti-Stacking Mechanism for Unique Items
 1) Feature Description: Implements an automatic check to prevent players from stacking unique items in their inventory. If a unique item is found stacked (quantity more than one), the script unstacks it and sets the quantity back to one.
