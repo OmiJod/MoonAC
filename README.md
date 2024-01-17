@@ -4,6 +4,7 @@ QB / PS / LJ Inventory
 Dependancy - ox_lib
 
 Anticheat is now Released 
+
 1 Month - https://moon-scriptsstore.tebex.io/package/6085872
 
 3 Months - https://moon-scriptsstore.tebex.io/package/6085895
